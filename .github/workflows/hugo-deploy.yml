@@ -10,13 +10,26 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
+        with:
+          submodules: recursive
+
+      - name: Setup Go
+        uses: actions/setup-go@v5
+        with:
+          go-version: '1.18'
 
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
         with:
-          hugo-version: '0.111.3'
+          hugo-version: 'latest'
           extended: true
+
+      - name: Download Hugo modules
+        run: |
+          go mod tidy
+          hugo mod get -u
+          hugo mod verify
 
       - name: Build
         run: hugo --minify
