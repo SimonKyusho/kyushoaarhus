@@ -1,4 +1,3 @@
-
 baseURL = "https://TheAutomatingMrLynch.github.io/hugo-poc"
 languageCode = "en-us"
 title = "My Hugo Site"
@@ -6,11 +5,17 @@ title = "My Hugo Site"
 [[module.imports]]
 path = "github.com/nunocoracao/blowfish/v2"
 
-# Layout settings for all posts
+# Basic theme parameters
+[params]
+colorScheme = "blowfish"
+defaultAppearance = "light"
+enableSearch = true
+mainSections = ["posts"]
+
 [cascade]
-  [[cascade._target]]
+  [[cascade.target]]           # Changed from _target to target
     path = "/posts/**"
-    type = "article"    # or "page", "projects" depending on your preference
+    type = "article"
 
 # Navigation Menu
 [[menu.main]]
