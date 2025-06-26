@@ -1,4 +1,4 @@
-module github.com/<your-username>/<your-repo>
+module github.com/TheAutomatingMrLynch/hugo-poc
 
 go 1.18
 
