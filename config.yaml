@@ -1,0 +1,8 @@
+baseURL: "https://TheAutomatingMrLynch.github.io/hugp-poc"
+languageCode: "en-us"
+title: "My Hugo Site"
+theme: "ananke"
+
+module:
+  imports:
+    - path: github.com/theNewDynamic/gohugo-theme-ananke
