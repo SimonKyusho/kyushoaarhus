@@ -5,4 +5,4 @@ theme: "blowfish"
 
 module:
   imports:
-    - path: github.com/nunocoracao/blowfish
+    - path: github.com/nunocoracao/blowfish/v2
