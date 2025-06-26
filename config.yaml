@@ -10,3 +10,16 @@ cascade:
   - _target:
       path: "/posts/**"
     type: "article"    # or "page", "projects", etc. depending on which layout you want
+
+# Add this section for navigation
+menu:
+  main:
+    - name: "Home"
+      url: "/"
+      weight: 10
+    - name: "Posts"
+      url: "/posts/"
+      weight: 20
+    - name: "About"
+      url: "/about/"
+      weight: 30
