@@ -5,3 +5,8 @@ title: "My Hugo Site"
 module:
   imports:
     - path: github.com/nunocoracao/blowfish/v2
+
+cascade:
+  - _target:
+      path: "/posts/**"
+    type: "article"    # or "page", "projects", etc. depending on which layout you want
