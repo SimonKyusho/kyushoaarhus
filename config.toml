@@ -13,9 +13,8 @@ enableSearch = true
 mainSections = ["posts"]
 
 [cascade]
-  [[cascade.target]]
-    path = "/posts/**"
-    type = "article"
+[cascade.posts]
+type = "article"
 
 # Navigation Menu
 [[menu.main]]
