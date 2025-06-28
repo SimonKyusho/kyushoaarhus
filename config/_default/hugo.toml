@@ -7,17 +7,22 @@ title = "My Hugo Site"
 [menu]
 [[menu.main]]
 name = "Home"
-url = "/"
+pageRef = "/"
 weight = 10
 
 [[menu.main]]
 name = "About"
-url = "/about/"
+pageRef = "/about"
 weight = 20
 
 [[menu.main]]
 name = "Posts"
-url = "/posts/"
+pageRef = "/posts"
+weight = 30
+
+[[menu.main]]
+name = "Search"
+pageRef = "search"
 weight = 30
 
 # Basic site parameters (commonly supported)
