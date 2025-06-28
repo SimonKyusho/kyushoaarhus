@@ -2,7 +2,6 @@ name: Deploy Hugo site to GitHub Pages
 
 env:
   DEFAULT_HUGO_ENV: papermod
-  HUGO_ENV: ${{ github.event.inputs.hugo_environment || env.DEFAULT_HUGO_ENV }}
 
 on:
   workflow_dispatch:
@@ -10,7 +9,7 @@ on:
       hugo_environment:
         description: 'Hugo environment to use for build'
         required: false
-        default: ${{ env.DEFAULT_HUGO_ENV }}  # Still need this for UI
+        default: 'papermod'
         type: choice
         options:
           - blowfish
