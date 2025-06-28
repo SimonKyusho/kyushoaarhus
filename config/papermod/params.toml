@@ -1,4 +1,8 @@
-# PaperMod theme-specific parameters
+[assets]
+customCSS = [
+    "css/papermod/custom.css"
+]
+
 env = "production"
 defaultTheme = "auto" # "light", "dark", "auto"
 ShowReadingTime = true
