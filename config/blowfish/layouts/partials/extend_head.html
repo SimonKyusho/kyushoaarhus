@@ -1,5 +1,0 @@
-{{ $customCSS := resources.Get "css/papermod/custom.css" }}
-{{ if $customCSS }}
-    {{ $customCSS := $customCSS | resources.PostCSS | resources.Minify }}
-    <link rel="stylesheet" href="{{ $customCSS.RelPermalink }}" />
-{{ end }}
