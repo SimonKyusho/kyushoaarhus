@@ -12,7 +12,6 @@ on:
         default: 'papermod'
         type: choice
         options:
-          - blowfish
           - papermod
           - _default
 
