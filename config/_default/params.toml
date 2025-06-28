@@ -20,3 +20,7 @@ showThemeAttribution = true
 [homepage]
 layout = "page"
 showRecent = false
+
+# Search configuration (Blowfish-specific)
+[search]
+showInHeader = true

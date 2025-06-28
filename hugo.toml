@@ -37,3 +37,7 @@ unsafe = true
 [taxonomies]
 category = "categories"
 tag = "tags"
+
+# Output formats for search (transferable)
+[outputs]
+home = ["HTML", "RSS", "JSON"]
