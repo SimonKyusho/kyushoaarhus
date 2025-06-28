@@ -1,0 +1,7 @@
+
+baseURL = "https://TheAutomatingMrLynch.github.io/hugo-poc"
+languageCode = "en-us"
+title = "My Hugo Site"
+
+[[module.imports]]
+path = "github.com/nunocoracao/blowfish/v2"
