@@ -1,0 +1,22 @@
+# Blowfish-specific author configuration
+[author]
+name = "Your Name"
+email = "your.email@example.com"
+links = [
+    { email = "mailto:your.email@example.com" },
+]
+
+# Blowfish theme parameters
+colorScheme = "blowfish"
+defaultAppearance = "light"
+
+[header]
+layout = "basic"
+
+[footer]
+showCopyright = true
+showThemeAttribution = true
+
+[homepage]
+layout = "page"
+showRecent = false
