@@ -1,6 +1,18 @@
 name: Deploy Hugo site to GitHub Pages
 
 on:
+  workflow_dispatch:
+    inputs:
+      hugo_environment:
+        description: 'Hugo environment to use for build'
+        required: false
+        default: 'blowfish'
+        type: choice
+        options:
+          - blowfish
+          - _default
+          # Add others when needed
+
   push:
     branches:
       - main
@@ -9,6 +21,10 @@ permissions:
   contents: read
   pages: write
   id-token: write
+
+# Set default environment for push/PR triggers
+env:
+  HUGO_ENV: ${{ github.event.inputs.hugo_environment || 'blowfish' }}
 
 jobs:
   deploy:
