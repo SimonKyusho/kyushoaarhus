@@ -6,19 +6,34 @@ title = "My Hugo Site"
 [[module.imports]]
 path = "github.com/nunocoracao/blowfish/v2"
 
+# Standard Hugo menu configuration (works with most themes)
+[menu]
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 10
 
-[[main]]
+[[menu.main]]
+name = "About"
+url = "/about/"
+weight = 20
+
+[[menu.main]]
 name = "Posts"
-pageRef = "/posts"
+url = "/posts/"
 weight = 30
 
-[[main]]
-name = "About"
-pageRef = "/about"
-weight = 20
+# Basic site parameters (commonly supported)
+[params]
+description = "My Hugo Site Description"
+author = "Your Name"
 
+# Standard Hugo configurations
+[markup]
+[markup.goldmark]
+[markup.goldmark.renderer]
+unsafe = true
 
-[[main]]
-name = "Contact"
-pageRef = "/contact"
-weight = 20
+[taxonomies]
+category = "categories"
+tag = "tags"
