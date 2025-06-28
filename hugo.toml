@@ -5,3 +5,20 @@ title = "My Hugo Site"
 
 [[module.imports]]
 path = "github.com/nunocoracao/blowfish/v2"
+
+
+[[main]]
+name = "Posts"
+pageRef = "/posts"
+weight = 30
+
+[[main]]
+name = "About"
+pageRef = "/about"
+weight = 20
+
+
+[[main]]
+name = "Contact"
+pageRef = "/contact"
+weight = 20
