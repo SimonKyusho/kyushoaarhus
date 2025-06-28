@@ -1,6 +1,6 @@
 [assets]
 customCSS = [
-    "assets/css/blowfish/custom.css",
+    "css/blowfish/custom.css",
 #    "css/blowfish/overrides.css"
 ]
 

@@ -1,6 +1,6 @@
 [assets]
 customCSS = [
-    "assets/css/papermod/custom.css"
+    "css/papermod/custom.css"
 ]
 
 env = "production"
