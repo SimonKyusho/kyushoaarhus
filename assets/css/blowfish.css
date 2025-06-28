@@ -1,0 +1,9 @@
+/* This gets processed by Hugo */
+:root {
+    --primary: #3b82f6;
+}
+
+.header {
+    background: var(--primary);
+    /* Hugo can minify this, add vendor prefixes, etc. */
+}
