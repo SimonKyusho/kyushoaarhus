@@ -1,2 +1,8 @@
 [[module.imports]]
 path = "github.com/nunocoracao/blowfish/v2"
+
+[assets]
+customCSS = [
+    "css/blowfish/custom.css",
+    "css/blowfish/overrides.css"
+]
