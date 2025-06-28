@@ -1,17 +1,21 @@
 name: Deploy Hugo site to GitHub Pages
 
+env:
+  DEFAULT_HUGO_ENV: papermod
+  HUGO_ENV: ${{ github.event.inputs.hugo_environment || env.DEFAULT_HUGO_ENV }}
+
 on:
   workflow_dispatch:
     inputs:
       hugo_environment:
         description: 'Hugo environment to use for build'
         required: false
-        default: 'blowfish'
+        default: ${{ env.DEFAULT_HUGO_ENV }}  # Still need this for UI
         type: choice
         options:
           - blowfish
+          - papermod
           - _default
-          # Add others when needed
 
   push:
     branches:
@@ -21,10 +25,6 @@ permissions:
   contents: read
   pages: write
   id-token: write
-
-# Set default environment for push/PR triggers
-env:
-  HUGO_ENV: ${{ github.event.inputs.hugo_environment || 'blowfish' }}
 
 jobs:
   deploy:
@@ -49,6 +49,8 @@ jobs:
 
       - name: Build
         run: hugo --minify
+        env:
+          HUGO_ENV: ${{ github.event.inputs.hugo_environment || env.DEFAULT_HUGO_ENV }}
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
