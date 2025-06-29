@@ -12,7 +12,7 @@ links = [
     { email = "mailto:your.email@example.com" },
 ]
 
-colorScheme = "bloody"  # blowfish (default), avocado, fire, ocean, forest, princess, neon, bloody, terminal, marvel, noir, autumn, congo, andslate
+colorScheme = "avocado"  # blowfish (default), avocado, fire, ocean, forest, princess, neon, bloody, terminal, marvel, noir, autumn, congo, andslate
 defaultAppearance = "light"  # "light", "dark", or "auto"
 
 [header]
