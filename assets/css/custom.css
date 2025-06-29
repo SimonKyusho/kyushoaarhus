@@ -89,6 +89,7 @@
 /* Increase the default font size */
 html {
     font-size: 13pt;
+    font-family: 'chopin_light', sans-serif;
 }
 
 
@@ -101,6 +102,6 @@ h2, h3, h4, h5, h6 {
     font-family: 'filmcrypob', sans-serif;
 }
 
-p {
-    font-family: 'chopin_light', sans-serif;
-}
+/*p, li {*/
+/*    font-family: 'chopin_light', sans-serif;*/
+/*}*/
