@@ -1,7 +1,7 @@
 name: Deploy Hugo site to GitHub Pages
 
 env:
-  DEFAULT_HUGO_ENV: papermod
+  DEFAULT_HUGO_ENV: blowfish
 
 on:
   workflow_dispatch:
@@ -9,10 +9,10 @@ on:
       hugo_environment:
         description: 'Hugo environment to use for build'
         required: false
-        default: 'papermod'
+        default: 'blowfish'
         type: choice
         options:
-          - papermod
+          - blowfish
           - _default
 
   push:
