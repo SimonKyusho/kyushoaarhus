@@ -25,7 +25,7 @@ showCopyright = true
 #showThemeAttribution = true
 
 [homepage]
-layout = "page" # "page", "profile", "hero", "card", "background"
+layout = "background" # "page", "profile", "hero", "card", "background"
 homepageImage = "img/hero.jpg"  # Optional hero image
 showRecent = false
 
