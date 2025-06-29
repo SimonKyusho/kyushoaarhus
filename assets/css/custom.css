@@ -46,6 +46,12 @@
     font-display: swap;
 }
 
+@font-face {
+    font-family: 'chopin_light';
+    src: url('../fonts/chopin_light.ttf') format('truetype');
+    font-display: swap;
+}
+
 :root {
     --color-neutral: 255, 255, 255;
     --color-neutral-50: 255, 255, 255;
@@ -96,5 +102,5 @@ h2, h3, h4, h5, h6 {
 }
 
 p {
-    font-family: 'resolve_light', sans-serif;
+    font-family: 'chopin_light', sans-serif;
 }
