@@ -10,6 +10,12 @@
     font-display: swap;
 }
 
+@font-face {
+    font-family: 'fresco_stamp';
+    src: url('../fonts/fresco_stamp.ttf') format('truetype');
+    font-display: swap;
+}
+
 :root {
   --color-neutral: 255, 255, 255;
   --color-neutral-50: 255, 255, 255;
@@ -51,6 +57,6 @@ html {
 
 
 h1 {
-    font-family: 'dingy_bird', sans-serif;
+    font-family: 'fresco_stamp', sans-serif;
     font-size: 3rem;
 }
