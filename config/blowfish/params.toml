@@ -26,7 +26,7 @@ showCopyright = true
 
 [homepage]
 layout = "background" # "page", "profile", "hero", "card", "background"
-homepageImage = "img/hero.jpg"  # Optional hero image
+homepageImage = "img/yao-ming.png"  # Optional hero image
 showRecent = false
 
 # Article styling
