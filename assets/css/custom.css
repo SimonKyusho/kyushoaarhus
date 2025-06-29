@@ -1,3 +1,8 @@
+@font-face {
+    font-family: mgs4-brush;
+    src: url('/fonts/mgs4-brush.ttf');
+}
+
 :root {
   --color-neutral: 255, 255, 255;
   --color-neutral-50: 255, 255, 255;
@@ -30,4 +35,8 @@
   --color-secondary-700: 32, 56, 72;
   --color-secondary-800: 19, 34, 44;
   --color-secondary-900: 7, 12, 15;
+}
+
+h1 {
+    font-family: mgs4-brush;
 }

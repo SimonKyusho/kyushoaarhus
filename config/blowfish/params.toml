@@ -1,9 +1,10 @@
+defaultAppearance = "light"  # "light", "dark", or "auto"
+
 [assets]
 customCSS = [
     "css/custom.css"
 ]
 
-# Blowfish-specific author configuration
 [author]
 name = "Yao Ming"
 email = "your.mother@example.com"
@@ -11,8 +12,6 @@ links = [
     { email = "mailto:your.mother@example.com" },
 ]
 
-#colorScheme = "avocado"  # blowfish (default), avocado, fire, ocean, forest, princess, neon, bloody, terminal, marvel, noir, autumn, congo, andslate
-defaultAppearance = "light"  # "light", "dark", or "auto"
 
 [header]
 layout = "basic" # "basic", "hamburger", "hybrid"
