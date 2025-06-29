@@ -40,6 +40,12 @@
     font-display: swap;
 }
 
+@font-face {
+    font-family: 'resolve_light';
+    src: url('../fonts/resolve_light.ttf') format('opentype');
+    font-display: swap;
+}
+
 :root {
     --color-neutral: 255, 255, 255;
     --color-neutral-50: 255, 255, 255;
@@ -87,4 +93,8 @@ h1 {
 
 h2, h3, h4, h5, h6 {
     font-family: 'filmcrypob', sans-serif;
+}
+
+p {
+    font-family: 'resolve_light', sans-serif;
 }
