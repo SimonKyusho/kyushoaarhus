@@ -6,10 +6,10 @@ customCSS = [
 
 # Blowfish-specific author configuration
 [author]
-name = "Your Name"
-email = "your.email@example.com"
+name = "Yao Ming"
+email = "your.mother@example.com"
 links = [
-    { email = "mailto:your.email@example.com" },
+    { email = "mailto:your.mother@example.com" },
 ]
 
 colorScheme = "avocado"  # blowfish (default), avocado, fire, ocean, forest, princess, neon, bloody, terminal, marvel, noir, autumn, congo, andslate
