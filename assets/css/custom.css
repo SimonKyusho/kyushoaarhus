@@ -1,6 +1,7 @@
 @font-face {
     font-family: mgs4-brush;
-    src: url('/fonts/mgs4-brush.ttf');
+    src: url('/fonts/mgs4-brush.ttf') format('truetype');
+    font-display: swap;
 }
 
 :root {
@@ -38,5 +39,5 @@
 }
 
 h1 {
-    font-family: mgs4-brush;
+    font-family: 'mgs4-brush';
 }
