@@ -1,8 +1,7 @@
-#[assets]
-#customCSS = [
-#    "css/blowfish/custom.css",
-##    "css/blowfish/overrides.css"
-#]
+[assets]
+customCSS = [
+    "css/custom.css"
+]
 
 # Blowfish-specific author configuration
 [author]
