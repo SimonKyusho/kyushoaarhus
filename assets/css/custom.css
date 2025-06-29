@@ -28,6 +28,18 @@
     font-display: swap;
 }
 
+@font-face {
+    font-family: 'filmcrypob';
+    src: url('../fonts/filmcrypob.ttf') format('truetype');
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'filmcryptic';
+    src: url('../fonts/filmcryptic.ttf') format('truetype');
+    font-display: swap;
+}
+
 
 
 :root {
@@ -71,6 +83,6 @@ html {
 
 
 h1 {
-    font-family: 'slurry', sans-serif;
+    font-family: 'filmcryptic', sans-serif;
     font-size: 3rem;
 }
