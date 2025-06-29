@@ -25,7 +25,7 @@ showCopyright = true
 #showThemeAttribution = true
 
 [homepage]
-layout = "hero" # "page", "profile", "hero", "card", "background"
+layout = "page" # "page", "profile", "hero", "card", "background"
 homepageImage = "../img/yao-ming.png"  # Optional hero image
 showRecent = true
 homepage.cardView = true
