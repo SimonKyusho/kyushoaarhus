@@ -12,14 +12,13 @@ links = [
     { email = "mailto:your.email@example.com" },
 ]
 
-# Blowfish theme parameters
 colorScheme = "bloody"  # blowfish (default), avocado, fire, ocean, forest, princess, neon, bloody, terminal, marvel, noir, autumn, congo, andslate
 defaultAppearance = "light"  # "light", "dark", or "auto"
 
 [header]
 layout = "basic" # "basic", "hamburger", "hybrid"
 
-# Search configuration (Blowfish-specific)
+
 [search]
 showInHeader = true
 
