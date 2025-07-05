@@ -25,9 +25,9 @@ showCopyright = true
 showThemeAttribution = false
 
 [homepage]
+homepageImage = "img/happy.png"
 layout = "card" # "page", "profile", "hero", "card", "background"
 showRecent = true
-homePageImage = "img/happy.png"
 homepage.cardView = true
 homepage.layoutBackgroundBlur = true
 
