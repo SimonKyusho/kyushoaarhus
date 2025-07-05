@@ -3,7 +3,12 @@ baseURL = "https://TheAutomatingMrLynch.github.io/hugo-poc/"
 languageCode = "en-us"
 title = "My Hugo Site"
 
-# Standard Hugo menu configuration (works with most themes)
+# Site parameters
+[params]
+description = "My Hugo Site Description"
+author = "Your Name"
+
+# Main menu
 [menu]
 [[menu.main]]
 name = "Home"
@@ -17,29 +22,25 @@ weight = 20
 
 [[menu.main]]
 name = "Posts"
-pageRef = "/posts/"
+pageRef = "/posts"
 weight = 30
 
 [[menu.main]]
 name = "Search"
 pageRef = "search"
-weight = 30
+weight = 40
 
-# Basic site parameters (commonly supported)
-[params]
-description = "My Hugo Site Description"
-author = "Your Name"
 
-# Standard Hugo configurations
 [markup]
 [markup.goldmark]
 [markup.goldmark.renderer]
 unsafe = true
 
+
 [taxonomies]
 category = "categories"
 tag = "tags"
 
-# Output formats for search (transferable)
+
 [outputs]
 home = ["HTML", "RSS", "JSON"]
