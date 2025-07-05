@@ -13,8 +13,9 @@ title: "Todo"
 
 - Images
   - [ ] Featured image for homepage
+  - [ ] Featured images for 'posts' page
+  - [x] Show thumbnails for posts on 'posts' page
   - [x] Featured images for posts
-  - [x] Show thumbnails for posts
 
 - Video
   - [x] Embed youtube video
