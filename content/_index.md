@@ -4,6 +4,10 @@ description: "Welcome to my site"
 draft: false
 ---
 
+{{< lead >}}
+Exiting intro blah blah blah. 
+{{< /lead >}}
+
 # Lorem Ipsum
 
 ## Dolor Sit Amet
