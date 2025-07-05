@@ -24,7 +24,7 @@ title: "Todo"
   - [x] Add custom header font
   - [x] Add custom default font
   - [ ] Add custom theme colors
-  - [ ] Add better styling for article leads
+  - [ ] Add better styling for article leads (div .lead)
 
 - Search
   - [x] Setup search 
