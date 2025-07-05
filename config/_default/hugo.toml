@@ -26,8 +26,8 @@ pageRef = "/posts"
 weight = 30
 
 [[menu.main]]
-name = "Search"
-pageRef = "search"
+name = "ToDo"
+pageRef = "todo"
 weight = 40
 
 
