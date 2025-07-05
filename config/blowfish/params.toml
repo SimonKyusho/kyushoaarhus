@@ -22,11 +22,12 @@ showInHeader = true
 
 [footer]
 showCopyright = true
-#showThemeAttribution = true
+showThemeAttribution = false
 
 [homepage]
-layout = "background" # "page", "profile", "hero", "card", "background"
+layout = "card" # "page", "profile", "hero", "card", "background"
 showRecent = true
+homePageImage = "img/happy.png"
 homepage.cardView = true
 homepage.layoutBackgroundBlur = true
 
