@@ -25,7 +25,7 @@ showCopyright = true
 #showThemeAttribution = true
 
 [homepage]
-layout = "page" # "page", "profile", "hero", "card", "background"
+layout = "background" # "page", "profile", "hero", "card", "background"
 showRecent = true
 homepage.cardView = true
 homepage.layoutBackgroundBlur = true
