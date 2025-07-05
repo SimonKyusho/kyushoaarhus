@@ -5,7 +5,7 @@ title: "Todo"
 - Theme
   - [x] Select theme (blowfish)
   - [ ] Remove/minimize contact info for authors
-  - [ ] Remove double titles
+  - [x] Remove double titles
   - [ ] Set automatic lead on articles
   - [ ] Setup social media icons
   - [ ] Figure out proper layout for pages

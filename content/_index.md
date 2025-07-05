@@ -9,8 +9,6 @@ image: "img/come-on.png"
 Exiting intro blah blah blah. 
 {{< /lead >}}
 
-# Lorem Ipsum
-
 ## Dolor Sit Amet
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
