@@ -1,6 +1,6 @@
 ---
 title: "Lorem Ipsum"
-date: 2025-06-28
+description: "Welcome to my site"
 draft: false
 ---
 
