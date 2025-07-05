@@ -13,7 +13,7 @@
   - [x] Show thumbnails for posts
 
 - Video
-  - [x] Embed [youtube video][/#dolor-sit-amet]
+  - [x] Embed youtube video
 
 - Styling
   - [x] Add custom header font
@@ -26,5 +26,6 @@
 
 - Pages
   - [ ] Prevent the search page from appearing in the posts list
+  - [ ] Figure out how to reference anchors in links
 
 - Content
