@@ -2,6 +2,7 @@
 title: "Lorem Ipsum"
 description: "Welcome to my site"
 draft: false
+image: "img/come-on.png"
 ---
 
 {{< lead >}}
