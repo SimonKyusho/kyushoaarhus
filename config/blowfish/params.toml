@@ -26,7 +26,7 @@ cardViewScreenWidth = false
 layoutBackgroundBlur = true # only used when layout equals background
 
 [header]
-layout = "fixed" # "basic", "fixed", "fixed-fill", and "fixed-fill-blur"
+layout = "basic" # "basic", "fixed", "fixed-fill", and "fixed-fill-blur"
 
 [footer]
 showCopyright = true
