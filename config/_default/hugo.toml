@@ -6,12 +6,6 @@ languageCode = "en-us"
 title = "My Hugo Site"
 
 
-# Site parameters
-[params]
-mainSections = ["posts"]
-description = "My Hugo Site Description"
-author = "Your Name"
-
 # Main menu
 [menu]
 [[menu.main]]

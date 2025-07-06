@@ -1,7 +1,7 @@
+description = "My Hugo Site Description"
 defaultAppearance = "light"  # "light", "dark", or "auto"
 defaultBackgroundImage = "img/happy.png" # used as default for background images
 mainSections = ["posts"]
-colorScheme = "bloody"
 
 
 [author]
