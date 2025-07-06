@@ -11,8 +11,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {{< /lead >}}
 
-<!--more-->
-
+{{< button href="#button" target="_self" >}}
+Call to action
+{{< /button >}}
 
 
 ### Consectetur Adipiscing
