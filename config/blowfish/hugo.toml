@@ -1,4 +1,2 @@
 [[module.imports]]
 path = "github.com/nunocoracao/blowfish/v2"
-
-canonifyURLs = true
