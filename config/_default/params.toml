@@ -1,7 +1,7 @@
 defaultAppearance = "light"  # "light", "dark", or "auto"
 defaultBackgroundImage = "img/happy.png" # used as default for background images
 mainSections = ["posts"]
-colorScheme = "fire"
+colorScheme = "bloody"
 
 
 # [assets]
