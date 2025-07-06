@@ -10,11 +10,6 @@ title = "My Demo Hugo Site"
 # Main menu
 [menu]
 [[menu.main]]
-name = "Home"
-pageRef = "/"
-weight = 10
-
-[[menu.main]]
 name = "About"
 pageRef = "/about"
 weight = 20
