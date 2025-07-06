@@ -4,10 +4,7 @@ mainSections = ["posts"]
 colorScheme = "fire"
 
 
-#[assets]
-#customCSS = [
-#    "css/custom.css"
-#]
+
 
 [author]
 name = "Yao Ming"
