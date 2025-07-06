@@ -54,37 +54,37 @@
 
 :root {
     --default-font-family: chopin_light;
-    --color-neutral: #FFFFFF;      /* 255, 255, 255 */
-    --color-neutral-50: #FFFFFF;   /* 255, 255, 255 */
-    --color-neutral-100: #FEC5CF;  /* 254, 197, 207 */
-    --color-neutral-200: #FD7990;  /* 253, 121, 144 */
-    --color-neutral-300: #FB2E52;  /* 251, 46, 82 */
-    --color-neutral-400: #D90429;  /* 217, 4, 41 */
-    --color-neutral-500: #B10321;  /* 177, 3, 33 */
-    --color-neutral-600: #89031A;  /* 137, 3, 26 */
-    --color-neutral-700: #610212;  /* 97, 2, 18 */
-    --color-neutral-800: #39010B;  /* 57, 1, 11 */
-    --color-neutral-900: #110003;  /* 17, 0, 3 */
-    --color-primary-50: #FFFFFF;   /* 255, 255, 255 */
-    --color-primary-100: #FFFFFF;  /* 255, 255, 255 */
-    --color-primary-200: #E6E9EE;  /* 230, 233, 238 */
-    --color-primary-300: #BAC1CE;  /* 186, 193, 206 */
-    --color-primary-400: #8D99AE;  /* 141, 153, 174 */
-    --color-primary-500: #75849D;  /* 117, 132, 157 */
-    --color-primary-600: #616F88;  /* 97, 111, 136 */
-    --color-primary-700: #505C71;  /* 80, 92, 113 */
-    --color-primary-800: #3F4859;  /* 63, 72, 89 */
-    --color-primary-900: #2E3541;  /* 46, 53, 65 */
-    --color-secondary-50: #FFFFFF; /* 255, 255, 255 */
-    --color-secondary-100: #D9E6EE; /* 217, 230, 238 */
-    --color-secondary-200: #A4C3D7; /* 164, 195, 215 */
-    --color-secondary-300: #6FA0C0; /* 111, 160, 192 */
-    --color-secondary-400: #457B9D; /* 69, 123, 157 */
-    --color-secondary-500: #396581; /* 57, 101, 129 */
-    --color-secondary-600: #2C4F64; /* 44, 79, 100 */
-    --color-secondary-700: #203848; /* 32, 56, 72 */
-    --color-secondary-800: #13222C; /* 19, 34, 44 */
-    --color-secondary-900: #070C0F; /* 7, 12, 15 */
+    --color-neutral: 255, 255, 255;
+    --color-neutral-50: 255, 255, 255;
+    --color-neutral-100: 254, 197, 207;
+    --color-neutral-200: 253, 121, 144;
+    --color-neutral-300: 251, 46, 82;
+    --color-neutral-400: 217, 4, 41;
+    --color-neutral-500: 177, 3, 33;
+    --color-neutral-600: 137, 3, 26;
+    --color-neutral-700: 97, 2, 18;
+    --color-neutral-800: 57, 1, 11;
+    --color-neutral-900: 17, 0, 3;
+    --color-primary-50: 255, 255, 255;
+    --color-primary-100: 255, 255, 255;
+    --color-primary-200: 230, 233, 238;
+    --color-primary-300: 186, 193, 206;
+    --color-primary-400: 141, 153, 174;
+    --color-primary-500: 117, 132, 157;
+    --color-primary-600: 97, 111, 136;
+    --color-primary-700: 80, 92, 113;
+    --color-primary-800: 63, 72, 89;
+    --color-primary-900: 46, 53, 65;
+    --color-secondary-50: 255, 255, 255;
+    --color-secondary-100: 217, 230, 238;
+    --color-secondary-200: 164, 195, 215;
+    --color-secondary-300: 111, 160, 192;
+    --color-secondary-400: 69, 123, 157;
+    --color-secondary-500: 57, 101, 129;
+    --color-secondary-600: 44, 79, 100;
+    --color-secondary-700: 32, 56, 72;
+    --color-secondary-800: 19, 34, 44;
+    --color-secondary-900: 7, 12, 15;
 }
 
 /* Increase the default font size */
