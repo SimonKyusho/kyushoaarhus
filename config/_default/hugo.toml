@@ -4,6 +4,8 @@ relativeURLs = false # Prevents path manipulation that might interfere with subp
 
 languageCode = "en-us"
 title = "My Hugo Site"
+mainSections = ["posts"]
+
 
 # Site parameters
 [params]
