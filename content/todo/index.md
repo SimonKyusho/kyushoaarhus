@@ -30,7 +30,7 @@ title: "Todo"
   - [x] Setup search 
 
 - Pages
-  - [ ] Prevent the search page from appearing in the posts list
+  - [x] Prevent the search page from appearing in the posts list
   - [ ] Figure out how to reference anchors in links
 
 - Content
