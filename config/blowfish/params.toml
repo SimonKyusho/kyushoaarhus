@@ -1,6 +1,6 @@
 description = "My Hugo Site Description"
 defaultAppearance = "light"  # "light", "dark", or "auto"
-defaultBackgroundImage = "img/happy.png" # used as default for background images
+defaultBackgroundImage = "/img/happy.png" # used as default for background images
 mainSections = ["posts"]
 enableSearch = "true"
 
@@ -14,7 +14,7 @@ links = [
 
 [homepage]
 layout = "page" # "page", "profile", "hero", "card", "background"
-homepageImage = "img/happy.png" # used in: hero and card
+homepageImage = "/img/happy.png" # used in: hero and card
 showRecent = true
 showRecentItems = 6
 showMoreLink = true
