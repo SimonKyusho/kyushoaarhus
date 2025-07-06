@@ -1,11 +1,13 @@
 defaultAppearance = "light"  # "light", "dark", or "auto"
 defaultBackgroundImage = "img/happy.png" # used as default for background images
 mainSections = ["posts"]
+colorScheme = "fire"
 
-[assets]
-customCSS = [
-    "css/custom.css"
-]
+
+#[assets]
+#customCSS = [
+#    "css/custom.css"
+#]
 
 [author]
 name = "Yao Ming"
@@ -16,7 +18,7 @@ links = [
 
 
 [homepage]
-layout = "card" # "page", "profile", "hero", "card", "background"
+layout = "page" # "page", "profile", "hero", "card", "background"
 homepageImage = "img/happy.png" # used in: hero and card
 showRecent = true
 showRecentItems = 6
