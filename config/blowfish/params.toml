@@ -41,14 +41,14 @@ showViews = false
 showLikes = false
 showAuthor = true
 showHero = true
-heroStyle = "basic"  # "basic", "big", "background"
+heroStyle = "background"  # "basic", "big", "background"
 showBreadcrumbs = true
 showTableOfContents = true
 showWordCount = true
 showSummary = true
 showRelatedContent = true
 relatedContentLimit = 3
-sharingLinks = ["youtube", "facebook"]
+# sharingLinks = ["youtube", "facebook"]
 
 [list]
 showCards = true
