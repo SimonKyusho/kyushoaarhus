@@ -4,12 +4,12 @@ defaultBackgroundImage = "/img/happy.png" # used as default for background image
 mainSections = ["posts"]
 enableSearch = "true"
 
-[author]
-name = "Yao Ming"
-email = "your.mother@example.com"
-links = [
-    { email = "mailto:your.mother@example.com" },
-]
+#[author]
+#name = "Yao Ming"
+#email = "your.mother@example.com"
+#links = [
+#    { email = "mailto:your.mother@example.com" },
+#]
 
 
 [homepage]
