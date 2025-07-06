@@ -4,11 +4,6 @@ mainSections = ["posts"]
 colorScheme = "bloody"
 
 
-# [assets]
-# customCSS = [
-#     "css/custom.css"
-# ]
-
 [author]
 name = "Yao Ming"
 email = "your.mother@example.com"
