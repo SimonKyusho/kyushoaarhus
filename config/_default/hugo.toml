@@ -1,5 +1,7 @@
 
 baseURL = "https://TheAutomatingMrLynch.github.io/hugo-poc/"
+canonifyURLs = true
+relativeURLs = true
 languageCode = "en-us"
 title = "My Hugo Site"
 
