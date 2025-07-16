@@ -20,9 +20,14 @@ pageRef = "/posts"
 weight = 30
 
 [[menu.main]]
+name = "Om Kyusho"
+pageRef = "/posts"
+weight = 40
+
+[[menu.main]]
 name = "ToDo"
 pageRef = "todo"
-weight = 40
+weight = 50
 
 
 [markup]
