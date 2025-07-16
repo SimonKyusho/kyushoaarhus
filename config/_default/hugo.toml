@@ -1,4 +1,4 @@
-baseURL = "https://TheAutomatingMrLynch.github.io/hugo-poc"
+baseURL = "https://KyushoSimon.github.io/kyushoaarhus"
 canonifyURLs = true # GitHub Pages serves content from a subpath. This setting ensures all URLs are properly prefixed with full domain and subpath
 relativeURLs = false # Prevents path manipulation that might interfere with subpath structure
 
