@@ -21,7 +21,7 @@ weight = 30
 
 [[menu.main]]
 name = "Om Kyusho"
-pageRef = "/posts"
+pageRef = "/Om Kyusho"
 weight = 40
 
 [[menu.main]]
