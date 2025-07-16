@@ -3,7 +3,7 @@ canonifyURLs = true # GitHub Pages serves content from a subpath. This setting e
 relativeURLs = false # Prevents path manipulation that might interfere with subpath structure
 
 languageCode = "en-us"
-title = "My Demo Hugo Site"
+title = "Kyusho Aarhus"
 
 
 
