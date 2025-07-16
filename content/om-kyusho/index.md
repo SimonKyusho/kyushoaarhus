@@ -42,6 +42,8 @@ Vi bruger Kyusho-punkter, som ret beset ikke er punkter, men nærmere ’lag af 
 
 ## Small Circle Jujutsu:
 
+(Toni billede her - feature-Dor35)
+
 Small Circle Jujutsu er en række teknikker og principper skabt af Wally Jay til at forstærke effektiviteten af ledlåse og tilpasset til Kyusho-punkterne af stormester Toni Kauhanen. Vi arbejder meget med Empty Feedback-teknikker, afslappethed og subtile påvirkninger – men når det gælder Small Circle Jujutsu handler det om at skabe maksimal smertepåvirkning med så små bevægelser som muligt. Det er teknikker i vores værktøjskasse, som vi bruger som distraktion sammen med Kyusho-punkterne, og som vi i øvrigt træner med respekt for hinandens kroppe og grænser. Disse teknikker kan kortvarigt føles som peberspray for nerverne, men det er også teknikker, som er lavet til ikke at gøre varig skade på modstanderen og vores træningspartner.
 
 Teknikkerne laves ved at skabe låse, der så at sige ’maler modstanderen op i et hjørne’, hvor kroppens naturlige flugtrespons bliver forhindret af en såkaldt ’base’. Vi laver også to-i-en låse, hvor låsene kan siges at ’vride ind mod hinanden’. Fælles er dog, at disse låse er hurtige og skal bruge langt mindre muskelkraft, end man antager, da de er meget kløgtigt tænkt, hvilket gør dem til et meget effektivt våben til selvforsvar ved greb.
