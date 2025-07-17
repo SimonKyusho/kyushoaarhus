@@ -1,5 +1,0 @@
----
-herostyle: "background"
----
-
-# About
