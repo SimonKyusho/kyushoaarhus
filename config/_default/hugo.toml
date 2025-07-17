@@ -11,7 +11,7 @@ title = "Kyusho Aarhus"
 [menu]
 [[menu.main]]
 name = "Om Klubben"
-pageRef = "/Om-klubben"
+pageRef = "/om-klubben"
 weight = 20
 
 [[menu.main]]
