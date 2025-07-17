@@ -10,9 +10,9 @@ title = "Kyusho Aarhus"
 # Main menu
 [menu]
 [[menu.main]]
-name = "Om Klubben"
-pageRef = "/om-klubben"
-weight = 20
+name = "Kontakt"
+pageRef = "/kontakt"
+weight = 40
 
 [[menu.main]]
 name = "Posts"
@@ -22,7 +22,7 @@ weight = 30
 [[menu.main]]
 name = "Om Kyusho"
 pageRef = "/om-kyusho"
-weight = 40
+weight = 20
 
 [[menu.main]]
 name = "ToDo"
