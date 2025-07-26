@@ -1,5 +1,5 @@
 ---
-title: "Lorem Ipsum"
+title: "Kyusho - Moderne selvforsvar med dybe rødder"
 description: "Welcome to my site"
 draft: false
 image: "/img/come-on.png"
@@ -7,7 +7,7 @@ image: "/img/come-on.png"
 
 {{< lead >}}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Kyusho er et moderne selvforsvarssystem, der tager udgangspunk i ældgamle japanske kamp-principper, der har været med til at danne grundlag for den første karate og jujutsu. Vores mester og grundlægger, Toni Kauhanen, har raffineret disse principper til en moderne og lynhurtig selvforsvarskunst, der prioriterer afspænding, naturlig bevægelse og læren om modstanderens svagheder. 
 
 {{< /lead >}}
 
@@ -16,20 +16,22 @@ Træn to uger gratis
 {{< /button >}}
 
 
-### Consectetur Adipiscing
+### Hurtigt og flydende selvforsvar med indre fokus
 
 {{< youtubeLite id="Pgjt5Eyn2gk" label="Naturlig Bevægelse" >}}
 
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Kyusho er ingen sport, så vi træner uden konkurrence, men balancerer modstanden i angrebene til den enkeltes niveau. Stilarten læres uden våben, men vi beskæftiger os også med forsvar mod kniv og andre relevante våben. 
 
-- Lorem ipsum dolor sit amet
-- Consectetur adipiscing elit
-- Sed do eiusmod tempor incididunt
-- Ut labore et dolore magna aliqua
+Hos os kan du blandt andet forvente at lære:
 
-### Tempor Incididunt
+- Hvordan du opbygger indre styrke kan gennem afspænding og afslapning
+- At bruge åndedræt og bevægelse til at overvinde frygt og spændinger
+- At absorbere en stærkere modstanders kraft og bruge den mod ham
+- Hvordan du udnytter Kyusho-punkter til frigørelse og nedtagninger af en modstander
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+### Alle træner lige
+
+Vi gør en dyd ud af, at både lavt og højt graduerede træner sammen i et åbent og nysgerrigt læringsmiljø. Vi er hinandens bedste læremestre, og vi opfordrer alle til at give feedback, når man står og arbejder med en teknik. 
 
 {{< carousel images="/hugo-poc/img/*" aspectRatio="21-9" interval="2500" >}}
 
