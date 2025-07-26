@@ -52,4 +52,4 @@ Træn to uger gratis
 
 ---
 
-*You'll rarely find the answer on the surface*
+*You'll rarely find the answer at a glance*
