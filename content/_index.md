@@ -24,7 +24,7 @@ Kyusho er ingen sport, så vi træner uden konkurrence, men balancerer modstande
 
 Hos os kan du blandt andet forvente at lære:
 
-- Hvordan du opbygger indre styrke kan gennem afspænding og afslapning
+- Hvordan du opbygger indre styrke gennem afspænding og afslapning
 - At bruge åndedræt og bevægelse til at overvinde frygt og spændinger
 - At absorbere en stærkere modstanders kraft og bruge den mod ham
 - Hvordan du udnytter Kyusho-punkter til frigørelse og nedtagninger af en modstander
