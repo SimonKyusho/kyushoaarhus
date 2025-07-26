@@ -2,6 +2,8 @@
 
 Under træningen vil du blive undervist i bevægelses-serier med slag og spark, der er skabt til at skabe muskelhukommelse, afslapning og struktur – det, der traditionelt blev kaldt ’kata’ i Japan. Dette er  dit alfabet, som du lærer at skabe Kyusho-ord ud fra.
 
+{{< youtubeLite id="NL9hiE_aD08" label="Neihanchi Sandan kata" >}}
+
 Par-øvelser er størstedelen af vores træning, hvor vi står foran vores partner, traditionelt kaldet ’uke’ på japansk, der agerer angriber, hvorefter vi skal forsvare også med en eller flere mulige teknikker. Her danner vi ord og sætninger ud af vores alfabet.
 
 Under parøvelserne benytter vi desuden en række principper til at understøtte teknikkerne. Principperne er lidt ligesom grammatikken og kan være den rette afslapning, indre struktur eller timing – men bare rolig, der er ingen terpning, det kommer naturligt under træningen.
@@ -11,6 +13,8 @@ Vi træner teknikkerne langsomt først, for at vores krop kan indøve dem ordent
 ## Fra indre til ydre
 
 Spændinger i kroppen er som knuder på et reb. Nogle få gør ingen stor forskel, men har du nok af dem, og er de store nok, stopper rebet med at kunne bruges som et reb. Det kan ikke bøje, binde eller nå dets fulde længde. Vi er ikke akrobater, men vi træner vores krop til at bruge afslapningen til at opnå den bedst mulige forbindelse mellem alle kroppens muskler. Man kan nemlig også se det som en vandslange, og er der knæk (spændinger), så kommer vandet ikke ud med den forventede kraft. På samme måde kan vi opnå stor afslappet styrke, så snart vi frigiver vores krops spændinger. Styrke gennem afspændthed og forbundethed.
+
+NL9hi{{< youtubeLite id="BPB_Q4tLMFw" label="Håndledslås" >}}
 
 Afspændtheden er også vigtig i forbindelse med et angreb. Matcher vi modstanderens styrke med samme styrke, ved angriberens nervesystem præcis, hvad vi har til hensigt at gøre, og vi vinder kun hvis vi er markant hurtigere, stærkere og teknisk overlegne. Det er ikke altid tilfældet, at vi er det, og hvis vores krop automatisk reagerer på et angreb med et ’tomt’ tilbagesvar, som ikke giver angriberen nogen feedback, giver det også en afgørende fordel, da det forvirrer og tvinger angriberen til at tænke. Benytter du dig af en afspændt ’tom’ teknik, som ikke giver feedback til angriberens nervesystem om at forsvare sig, fungerer det lidt som en trojansk hest, og vi kommer bagom og ind under hans muskelmæssige forsvar. Dette er det centrale, indre grundprincip der får Kyusho til at virke, som det var tiltænkt.
 
