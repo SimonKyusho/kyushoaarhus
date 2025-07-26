@@ -52,4 +52,4 @@ Træn to uger gratis
 
 ---
 
-*Lorem ipsum dolor sit amet, consectetur adipiscing elit.*
+*You'll rarely find the answer in the surface*
