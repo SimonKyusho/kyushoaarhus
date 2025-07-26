@@ -36,9 +36,9 @@ Vi gør en dyd ud af, at både lavt og højt graduerede træner sammen i et åbe
 {{< carousel images="/hugo-poc/assets/img/Dor15.jpg" aspectRatio="21-9" interval="2500" >}}
 
 
-#### Ut Labore
+#### At 'hacke' kroppen
 
-Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.
+Når kroppens nervesystem registrerer en påvirkning, vil den enten tænke 'ven' eller 'fjende'. Hvis man prøver at tvinge modstanderen i knæ eller ned på jorden, kæmper man mod modstanderens fulde styrke, da man aktiverer hans instinktive alarmsystem. Men gennem afspændt bevægelse og med hele kroppen bag, kan vi lave teknikker, der 'sniger sig ind uset' og virker meget effektivt på selv store og stærke personer i en selforsvarssituation. 
 
 {{< youtubeLite id="21jSm-Md3og" label="Kyusho håndledslås" >}}
 
