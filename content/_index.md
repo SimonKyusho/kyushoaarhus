@@ -36,19 +36,19 @@ Vi gør en dyd ud af, at både lavt og højt graduerede træner sammen i et åbe
 {{< carousel images="/hugo-poc/assets/img/Dor15.jpg" aspectRatio="21-9" interval="2500" >}}
 
 
-#### At 'hacke' kroppen
+### At 'hacke' kroppen
 
 Når kroppens nervesystem registrerer en påvirkning, vil den enten tænke 'ven' eller 'fjende'. Hvis man prøver at tvinge modstanderen i knæ eller ned på jorden, kæmper man mod modstanderens fulde styrke, da man aktiverer hans instinktive alarmsystem. Men gennem afspændt bevægelse og med hele kroppen bag, kan vi lave teknikker, der 'sniger sig ind uset' og virker meget effektivt på selv store og stærke personer i en selforsvarssituation. 
 
 {{< youtubeLite id="21jSm-Md3og" label="Kyusho håndledslås" >}}
 
-#### Et Dolore
+### Vil du træne med?
 
-Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.
+Så skal du være meget velkommen til at prøve det gratis i to uger. Se præcis hvordan du gør her:
 
-### Magna Aliqua
-
-At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident.
+{{< button href="kontakt" target="_self" >}}
+Træn to uger gratis
+{{< /button >}}
 
 ---
 
