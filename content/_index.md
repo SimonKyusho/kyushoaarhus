@@ -11,8 +11,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {{< /lead >}}
 
-{{< button href="#button" target="_self" >}}
-Call to action
+{{< button href="kontakt" target="_self" >}}
+Træn to uger gratis
 {{< /button >}}
 
 
