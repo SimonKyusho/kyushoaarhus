@@ -2,9 +2,9 @@
 title: "Kyusho - Moderne selvforsvar med dybe rødder"
 description: "Welcome to my site"
 draft: false
+heroStyle: "background"
 image: "featured-happy.png"
 ---
-
 {{< lead >}}
 
 Kyusho er et moderne selvforsvarssystem, der tager udgangspunk i ældgamle japanske kamp-principper, der har været med til at danne grundlag for den første karate og jujutsu. Vores mester og grundlægger, Toni Kauhanen, har raffineret disse principper til en moderne og lynhurtig selvforsvarskunst, der prioriterer afspænding, naturlig bevægelse og læren om modstanderens svagheder. 
