@@ -2,7 +2,7 @@
 title: "Kyusho - Moderne selvforsvar med dybe rødder"
 description: "Welcome to my site"
 draft: false
-image: "/img/come-on.png"
+image: "featured-happy.png"
 ---
 
 {{< lead >}}
