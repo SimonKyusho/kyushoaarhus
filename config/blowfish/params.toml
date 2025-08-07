@@ -15,7 +15,7 @@ enableSearch = "true"
 [homepage]
     showHero = true
     heroStyle = "background" # valid options: basic, big, background
-    layout = "background" # "page", "profile", "hero", "card", "background"
+    layout = "hero" # "page", "profile", "hero", "card", "background"
     # homepageImage = "featured-happy.png" # used in: hero and card layout
     showRecent = true
     showRecentItems = 6
