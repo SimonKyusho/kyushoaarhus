@@ -14,7 +14,7 @@ enableSearch = "true"
 
 [homepage]
 layout = "page" # "page", "profile", "hero", "card", "background"
-homepageImage = "/img/happy.png" # used in: hero and card
+homepageImage = "featured-happy.png" # used in: hero and card
 showRecent = true
 showRecentItems = 6
 showMoreLink = true
