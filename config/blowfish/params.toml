@@ -13,44 +13,46 @@ enableSearch = "true"
 
 
 [homepage]
-layout = "page" # "page", "profile", "hero", "card", "background"
-homepageImage = "img/cover-yao-ming.png" # used in: hero and card
-showRecent = true
-showRecentItems = 6
-showMoreLink = true
-showMoreLinkDest = "/posts"
-cardView = true
-cardViewScreenWidth = false
-layoutBackgroundBlur = true # only used when layout equals background
+    layout = "page" # "page", "profile", "hero", "card", "background"
+    homepageImage = "img/cover-yao-ming.png" # used in: hero and card
+    showRecent = true
+    showRecentItems = 6
+    showMoreLink = true
+    showMoreLinkDest = "/posts"
+    cardView = true
+    cardViewScreenWidth = false
+    layoutBackgroundBlur = true # only used when layout equals background
 
 [header]
-layout = "fixed-fill" # "basic", "fixed", "fixed-fill", and "fixed-fill-blur"
+    layout = "fixed-fill" # "basic", "fixed", "fixed-fill", and "fixed-fill-blur"
 
 [footer]
-showCopyright = true
-showThemeAttribution = false
+    showCopyright = true
+    showThemeAttribution = false
 
 [search]
-showInHeader = true
+    showInHeader = true
 
 # Article styling
 [article]
-showDate = true
-showDateUpdated = false
-showViews = false
-showLikes = false
-showAuthor = true
-showHero = true
-heroStyle = "background"  # "basic", "big", "background"
-showBreadcrumbs = true
-showTableOfContents = true
-showWordCount = true
-showSummary = true
-showRelatedContent = true
-relatedContentLimit = 3
-# sharingLinks = ["youtube", "facebook"]
+    showDate = true
+    showDateUpdated = false
+    showViews = false
+    showLikes = false
+    showAuthor = true
+    showHero = true
+    heroStyle = "background"  # "basic", "big", "background"
+    showBreadcrumbs = true
+    showTableOfContents = true
+    showWordCount = true
+    showSummary = true
+    showRelatedContent = true
+    relatedContentLimit = 3
+    # sharingLinks = ["youtube", "facebook"]
 
 [list]
-showCards = true
-groupByYear = false
-cardView = true
+    showHero = true
+    heroStyle = "background" # valid options: basic, big, background
+    showCards = true
+    groupByYear = false
+    cardView = true
