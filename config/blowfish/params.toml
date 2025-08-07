@@ -13,8 +13,10 @@ enableSearch = "true"
 
 
 [homepage]
-    layout = "page" # "page", "profile", "hero", "card", "background"
-    homepageImage = "img/cover-yao-ming.png" # used in: hero and card
+    showHero = true
+    heroStyle = "background" # valid options: basic, big, background
+    # layout = "page" # "page", "profile", "hero", "card", "background"
+    # homepageImage = "img/cover-yao-ming.png" # used in: hero and card
     showRecent = true
     showRecentItems = 6
     showMoreLink = true
