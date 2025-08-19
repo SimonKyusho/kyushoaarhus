@@ -62,7 +62,7 @@ Her er et udpluk af nogle af de principper, som vi underviser i:
 **Non-tension and Natural Movement Afspændthed** i led og lad kroppen mærke og finde vejen gennem cirkel- og
 spiral-bevægelser
 
-**Move From Zero Brug** ingen overflødige bevægelser og ’lad aldrig teknikken op’
+**Move From Zero** Brug ingen overflødige bevægelser og bevæg dig fra hvor, du er
 
 **Empty Contact** Giv ingen feedback til modstanderen, der ikke er skabt til at distrahere
 
@@ -82,18 +82,18 @@ Nervepunkter er kendt i langt de fleste japanske stilarter og handler om at fang
 til. Aktiverer man et nervepunkt, skaber man typisk en reaktion som når lægen banker på knæet med sin hammer for at
 teste dine reflekser, men i modsætning til hos lægen, skaber de ofte høj smerte hos modstanderen. Nogle af dem kan være
 brugbare, men bagsiden ved medaljen er, at ikke alle mennesker er lige reaktive på alle nervepunkter, ligesom de ofte er
-svært tilgængelige under kamp, fordi man skal være meget præcis, da de ligger beskyttet bagved muskler.
+svært tilgængelige under kamp, fordi man skal være meget præcis, da de ligger beskyttet bagved muskler og væv.
 
 Nogle Kyusho-stilarter bruger Meridian-punkter, som er baseret på teorier om energibaner, der er afstedkommet af
 Traditionel Kinesisk Akupunktur. De baserer sig på andre teorier end dem vi bruger, og bruges også til healing. Til
-trods for navnet er denne teori opstået i Vesten, og Meridian-punkter har ikke været brugt til kamp i Østen. At kende
+trods for navnet er denne teori opstået i Vesten, og Meridian-punkter har ikke oprindeligt været brugt til kamp i Østen. At kende
 punkterne og energibanerne kan dog være en fordel i forhold til at skabe et mentalt kort over kroppen samt til
 genoprettelse og heling.
 
 Vi bruger Kyusho-punkter, som ret beset ikke er punkter, men nærmere ’lag af kroppen’ og hvordan de korresponderer.
 Påvirkning af hud, sener, bindevæv og knogler giver hjernen og vores balancesystem forskellige meddelelser, og påvirker
 vi dem med det rigtige tryk og i den rigtige timing, kan vi så at sige ’hacke’ kroppens bevægelsessystem. I stedet for
-at flytte vores modstander med muskelkraft, skaber vi en alarm-tilstand, hvor modstanderens krop ’giver efter’ eller går
+at flytte vores modstander med muskelkraft, skaber vi en alarm-tilstand, hvor modstanderens krop bevæger sig som en reflekstilstand eller går
 i delvis nedlukning – ofte uden smertepåvirkning.
 
 ## Small Circle Jujutsu:
