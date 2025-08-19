@@ -52,6 +52,12 @@
     font-display: swap;
 }
 
+@font-face {
+    font-family: 'Gyosho';
+    src: url("C:\Users\simon\Desktop\Kyusho Aarhus\Gyosho.ttf") format('truetype');
+    font-display: swap;
+}
+
 :root {
     --default-font-family: chopin_light;
 
