@@ -12,6 +12,11 @@ title = "Kyusho Aarhus"
 [[menu.main]]
 name = "Kontakt"
 pageRef = "/kontakt"
+weight = 50
+
+[[menu.main]]
+name = "Klubbens formål"
+pageRef = "/formål"
 weight = 40
 
 [[menu.main]]
@@ -27,7 +32,7 @@ weight = 20
 [[menu.main]]
 name = "ToDo"
 pageRef = "todo"
-weight = 50
+weight = 60
 
 
 [markup]
