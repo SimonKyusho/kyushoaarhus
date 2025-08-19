@@ -20,8 +20,8 @@ pageRef = "/klubbensformål"
 weight = 40
 
 [[menu.main]]
-name = "Posts"
-pageRef = "/posts"
+name = "Blog"
+pageRef = "/blog"
 weight = 30
 
 [[menu.main]]
