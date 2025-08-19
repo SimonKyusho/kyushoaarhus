@@ -56,5 +56,3 @@ Træn to uger gratis
 {{< /button >}}
 
 ---
-
-*You'll rarely find the answer at a glance*
