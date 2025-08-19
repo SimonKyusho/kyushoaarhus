@@ -16,7 +16,7 @@ weight = 50
 
 [[menu.main]]
 name = "Klubbens formål"
-pageRef = "/formål"
+pageRef = "/klubbensformål"
 weight = 40
 
 [[menu.main]]
