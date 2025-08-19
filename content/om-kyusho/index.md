@@ -98,7 +98,7 @@ i delvis nedlukning – ofte uden smertepåvirkning.
 
 ## Small Circle Jujutsu:
 
-(Toni billede her - feature-Dor35)
+![alt text](Dor35.jpg)
 
 Small Circle Jujutsu er en række teknikker og principper skabt af Wally Jay til at forstærke effektiviteten af ledlåse
 og tilpasset til Kyusho-punkterne af stormester Toni Kauhanen. Vi arbejder meget med Empty Feedback-teknikker,
