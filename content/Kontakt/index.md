@@ -23,6 +23,8 @@ ikke bekymre dig om udstyr.
 Tag noget tøj på, du kan bevæge dig i, hvor man kan tage fat i kraven (f.eks. t-shirt). Vi træner i bare fødder og uden
 eventuelle ringe, armbånd og smykker, ligesom håret skal være sat praktisk op.
 
+![alt text](IMG20220614201146.jpg)
+
 **Hvor:** L. A. Rings Vej 54, 8270 Højbjerg
 
 **Hvornår:** Tirsdag 20.30 – 22.00 og torsdag 20.30 – 22.00
