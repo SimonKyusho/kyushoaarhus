@@ -4,26 +4,28 @@ title: "Todo"
 
 - Theme
   - [x] Select theme (blowfish)
-  - [ ] Remove/minimize contact info for authors
+  - [x] Remove/minimize contact info for authors
   - [x] Remove double titles
   - [ ] Set automatic lead on articles
-  - [ ] Setup social media icons
   - [ ] Figure out proper layout for pages
   - [ ] Setup categories and tags
+  - [ ] Remove 'Recent' on homepage - BCL
 
 - Images
-  - [ ] Featured image for homepage
+  - [ ] Add logo to header - BCL
+  - [x] Featured image for homepage
   - [ ] Featured images for 'posts' page
   - [x] Show thumbnails for posts on 'posts' page
   - [x] Featured images for posts
+  - [ ] Un-crop/crop sides on image carousel (e.g. front page) - BCL
 
 - Video
   - [x] Embed youtube video
 
 - Styling
-  - [x] Add custom header font
+  - [ ] Add custom header font - Simon
   - [x] Add custom default font
-  - [ ] Add custom theme colors
+  - [x] Add custom theme colors
   - [ ] Add better styling for article leads (div .lead)
 
 - Search
@@ -32,5 +34,6 @@ title: "Todo"
 - Pages
   - [x] Prevent the search page from appearing in the posts list
   - [ ] Figure out how to reference anchors in links
+  - [ ] Add map on 'kontakt' page - BCL
 
 - Content
