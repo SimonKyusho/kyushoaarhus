@@ -48,4 +48,4 @@ mapLocation="L. A. Rings Vej 54, 8270 Hoejbjerg, Danmark"
 mapImg="img/kort.png"
 mapLink="https://www.openstreetmap.org/?mlat=56.115304&amp;mlon=10.196128#map=17/56.115304/10.196128"
 iframeSrc="https://www.openstreetmap.org/export/embed.html?bbox=10.187169313430788%2C56.112842090076605%2C10.205086469650269%2C56.117764928030624&amp;layer=mapnik&amp;marker=56.11530358777953%2C10.196127891540527"
-> >}}
+>}}
