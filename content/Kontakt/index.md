@@ -33,14 +33,14 @@ eventuelle ringe, armbånd og smykker, ligesom håret skal være sat praktisk op
 minutters gang.
 
 **Hvem:** Både kvinder og mænd er velkomne uanset tidligere erfaring. Vi træner ikke juniorer på vores nuværende hold,
-så alle over atten år, der ikke er bevægelseshæmmet af f.eks. skader, kan man træne med. Vi træner ikke intensiv kondi
+så alle over atten år, der ikke er bevægelseshæmmet af f.eks. skader, kan træne med. Vi træner ikke intensiv kondi
 og styrke, men sved på panden er en risiko, du løber. :-)
 
 **Faciliteter:** Der er separate omklædningsrum for mænd og kvinder samt separate badefaciliteter.
 
 **Kontingent:** 600 kr per kvartal (forudbetalt) og 500 kr for studerende.
 
-For tilmelding eller spørgsmål, skriv til: simonkirk1988@gmail.com
+For tilmelding eller spørgsmål, skriv til: kontakt@kyusho-aarhus.dk
 
 {{< open-street-map
 id="kyusho-aarhus" mapTitle="Find vej"
