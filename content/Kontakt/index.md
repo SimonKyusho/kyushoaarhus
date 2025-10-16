@@ -40,4 +40,4 @@ og styrke, men sved på panden er en risiko, du løber. :-)
 
 **Kontingent:** 600 kr per kvartal (forudbetalt) og 500 kr for studerende.
 
-For tilmelding eller spørgsmål, skriv til: simonkirk1988@gmail.com
+For tilmelding eller spørgsmål, skriv til: kontakt@kyusho-aarhus.dk
