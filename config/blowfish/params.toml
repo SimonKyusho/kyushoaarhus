@@ -27,6 +27,7 @@ enableSearch = "true"
 
 [header]
     layout = "fixed-fill" # "basic", "fixed", "fixed-fill", and "fixed-fill-blur"
+    logo = "img/kaj_logo_red_web_quality_no_background.png"  # Path relative to your 'static' directory
 
 [footer]
     showCopyright = true
