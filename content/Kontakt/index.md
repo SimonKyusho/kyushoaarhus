@@ -25,8 +25,10 @@ eventuelle ringe, armbånd og smykker, ligesom håret skal være sat praktisk op
 
 ![alt text](IMG20220614201146.jpg)
 
-{{< open-street-map id="guggenheim-bilbao" mapTitle="Map of Guggenheim Bilbao" mapLocation="Guggenheim Museum Bilbao
-Abandoibarra Etorb., 2, Abando, 48009 Bilbo, Bizkaia, Spain" mapImg="guggenhein-bilbao-capture.webp"
+{{< open-street-map 
+id="guggenheim-bilbao" mapTitle="Map of Guggenheim Bilbao" 
+mapLocation="Guggenheim Museum Bilbao Abandoibarra Etorb., 2, Abando, 48009 Bilbo, Bizkaia, Spain" 
+mapImg="guggenhein-bilbao-capture.webp"
 mapLink="https://www.openstreetmap.org/?mlat=43.26858&amp;mlon=-2.93396#map=18/43.26858/-2.93396"
 iframeSrc="https://www.openstreetmap.org/export/embed.html?bbox=-2.938274145126343%2C43.26687429022074%2C-2.9296535253524785%2C43.27027649854556&amp;layer=mapnik&amp;marker=43.26857541815403%2C-2.9339638352394104" >}}
 
