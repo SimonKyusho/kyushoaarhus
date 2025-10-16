@@ -53,10 +53,11 @@
 }
 
 @font-face {
-    font-family: 'Gyosho';
-    src: url("C:\Users\simon\Desktop\Kyusho Aarhus\Gyosho.ttf") format('truetype');
+    font-family: 'ankecallig';
+    src: url('../fonts/ankecallig-fg.ttf') format('truetype');
     font-display: swap;
 }
+
 
 :root {
     --default-font-family: chopin_light;
@@ -107,12 +108,12 @@ html {
 
 
 h1 {
-    font-family: 'filmcryptic', sans-serif;
+    font-family: 'ankecallig', sans-serif;
     font-size: 3rem;
 }
 
 h2, h3, h4, h5, h6 {
-    font-family: 'filmcrypob', sans-serif;
+    font-family: 'ankecallig', sans-serif;
 }
 
 /*p, li {*/
