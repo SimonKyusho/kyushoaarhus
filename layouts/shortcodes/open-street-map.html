@@ -1,8 +1,8 @@
 <link rel="stylesheet" href="/libs/leaflet/leaflet.css" />
 <div class="container">
-  <div id="map-{{ .Get 'id' }}" style="height: 450px; border: 1px solid black;"></div>
+  <div id="map-{{ .Get `id` }}" style="height: 450px; border: 1px solid black;"></div>
   <div class="text-center mt-2">
-    <a href='{{ .Get "mapLink" }}' rel="noreferrer noopener" target="_blank">View Larger Map</a>
+    <a href="{{ .Get `mapLink` }}" rel="noreferrer noopener" target="_blank">View Larger Map</a>
     <a href="https://www.openstreetmap.org/copyright" rel="noreferrer noopener" target="_blank">
       <small class="float-end">©OpenStreetMap</small>
     </a>
@@ -10,9 +10,9 @@
 </div>
 <script src="/libs/leaflet/leaflet.js"></script>
 <script>
-  let map = L.map('map-{{ .Get "id" }}').setView(['{{ .Get "lat" }}', '{{ .Get "lon" }}'], '{{ .Get "zoom" }}');
+  let map = L.map('map-{{ .Get `id` }}').setView([{{ .Get `lat` }}, {{ .Get `lon` }}], {{ .Get `zoom` }});
   L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
     attribution: '© OpenStreetMap contributors'
   }).addTo(map);
-  L.marker(['{{ .Get "lat" }}', '{{ .Get "lon" }}']).addTo(map);
+  L.marker([{{ .Get `lat` }}, {{ .Get `lon` }}]).addTo(map);
 </script>
