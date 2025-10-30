@@ -43,9 +43,8 @@ og styrke, men sved på panden er en risiko, du løber. :-)
 For tilmelding eller spørgsmål, skriv til: kontakt@kyusho-aarhus.dk
 
 {{< open-street-map
-id="kyusho-aarhus" mapTitle="Find vej"
-mapLocation="L. A. Rings Vej 54, 8270 Hoejbjerg, Danmark"
-mapImg="img/kort.png"
-mapLink="https://www.openstreetmap.org/?mlat=56.115304&amp;mlon=10.196128#map=17/56.115304/10.196128"
-iframeSrc="https://www.openstreetmap.org/export/embed.html?bbox=10.187169313430788%2C56.112842090076605%2C10.205086469650269%2C56.117764928030624&amp;layer=mapnik&amp;marker=56.11530358777953%2C10.196127891540527"
+    id="kyusho-aarhus" mapTitle="Find vej"
+    mapLocation="L. A. Rings Vej 54, 8270 Hoejbjerg, Danmark"
+    mapLink="https://www.openstreetmap.org/?#map=17/56.115429/10.196010&amp;layers=N"
+    iframeSrc="https://www.openstreetmap.org/export/embed.html?bbox=10.19237279891968%2C56.11177130438702%2C10.199646949768068%2C56.11908674930369&amp;layer=mapnik&amp;marker=56.115429%2C10.196010"
 >}}
