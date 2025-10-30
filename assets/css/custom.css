@@ -116,6 +116,8 @@ h2, h3, h4, h5, h6 {
     font-family: 'ankecallig', sans-serif;
 }
 
+.map { height: 180px; }
+
 /*p, li {*/
 /*    font-family: 'chopin_light', sans-serif;*/
 /*}*/
