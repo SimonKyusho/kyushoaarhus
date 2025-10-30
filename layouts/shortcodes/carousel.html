@@ -42,6 +42,7 @@
     </div>
 
     <div class="relative w-full overflow-hidden after:clear-both after:block after:content-['']">
+        {{ $aspectRatio := .Get "aspectRatio" }}
         {{ range $index, $image := $images }}
         {{ $hiddenClass := cond (eq $index 0) "" "hidden" }}
         <div
@@ -51,8 +52,7 @@
                 {{ if eq $index 0 }}data-twe-carousel-active{{ end }}>
             <div
                     class="single_hero_background"
-                    {{ if ne (.Get
-            "aspectRatio") "none" }}style="aspect-ratio: {{ $aspectx }} / {{ $aspecty }};"{{ end }}>
+                    {{ if ne $aspectRatio "none" }}style="aspect-ratio: {{ $aspectx }} / {{ $aspecty }};"{{ end }}>
             <img
                     src="{{ $image.RelPermalink }}"
                     class="block absolute top-0 object-contain w-full h-full not-prose nozoom"
