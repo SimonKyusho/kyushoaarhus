@@ -48,15 +48,19 @@
         <div
                 class="relative float-left -mr-[100%] {{ $hiddenClass }} w-full transition-transform ease-in-out motion-reduce:transition-none"
                 data-twe-carousel-item
-                style="transition-duration: {{ $interval }}ms;"
-                {{ if eq $index 0 }}data-twe-carousel-active{{ end }}>
+                style="transition-duration: {{ interval }}ms;"
+                {{ if eq $index 0 }}data-twe-carousel-active{{ end }}
+        >
             <div
                     class="single_hero_background"
-                    {{ if ne $aspectRatio "none" }}style="aspect-ratio: {{ $aspectx }} / {{ $aspecty }};"{{ end }}>
+                    {{ if ne $aspectRatio
+            "none" }} style="aspect-ratio: {{ $aspectx }} / {{ $aspecty }};"{{ end }}
+            >
             <img
                     src="{{ $image.RelPermalink }}"
                     class="block absolute top-0 object-contain w-full h-full not-prose nozoom"
-                    alt="carousel image {{ add $index 1 }}">
+                    alt="carousel image {{ add $index 1 }}"
+            >
         </div>
     </div>
     {{ end }}
