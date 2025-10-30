@@ -50,4 +50,4 @@ For tilmelding eller spørgsmål, skriv til: kontakt@kyusho-aarhus.dk
     mapLink="https://www.openstreetmap.org/?#map=18/56.115368/10.196262&layers=N"
 >}}
 
-![kort.png](../../assets/img/kort.png)
+![kort.png](img/kort.png)
