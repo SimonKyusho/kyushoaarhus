@@ -34,6 +34,6 @@ title: "Todo"
 - Pages
   - [x] Prevent the search page from appearing in the posts list
   - [ ] Figure out how to reference anchors in links
-  - [ ] Add map on 'kontakt' page - BCL
+  - [x] Add map on 'kontakt' page
 
 - Content
