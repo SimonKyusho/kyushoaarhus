@@ -3,6 +3,7 @@
 {{ $aspectx := default "16" (index $aspect  0) }}
 {{ $aspecty := default "9" (index $aspect  1) }}
 {{ $interval := default "2000" (.Get "interval") }}
+{{ $maxHeight := default "600px" (.Get "maxHeight") }}
 
 {{ $page := .Page.Resources }}
 {{ $imagesTemp := .Get "images" }}
@@ -50,10 +51,11 @@
                 style="transition-duration: {{ $interval }}ms;"
                 {{ if eq $index 0 }}data-twe-carousel-active{{ end }}>
             <div class="single_hero_background">
-                <img
-                        src="{{ $image.RelPermalink }}"
-                        class="block w-full h-auto not-prose nozoom"
-                        alt="carousel image {{ add $index 1 }}">
+                <<img
+                            src="{{ $image.RelPermalink }}"
+                            class="block w-full h-auto not-prose nozoom"
+                            style="max-height: {{ $maxHeight }};"
+                            alt="carousel image {{ add $index 1 }}">
             </div>
         </div>
         {{ end }}
