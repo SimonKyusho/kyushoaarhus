@@ -10,9 +10,15 @@
 </div>
 <script src="/libs/leaflet/leaflet.js"></script>
 <script>
-  let map = L.map('map-{{ .Get `id` }}').setView([{{ .Get `lat` }}, {{ .Get `lon` }}], {{ .Get `zoom` }});
-  L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
-    attribution: '© OpenStreetMap contributors'
-  }).addTo(map);
-  L.marker([{{ .Get `lat` }}, {{ .Get `lon` }}]).addTo(map);
+  (function() {
+    const lat = parseFloat('{{ .Get `lat` }}');
+    const lon = parseFloat('{{ .Get `lon` }}');
+    const zoom = parseInt('{{ .Get `zoom` }}');
+
+    let map = L.map('map-{{ .Get `id` }}').setView([lat, lon], zoom);
+    L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      attribution: '© OpenStreetMap'
+    }).addTo(map);
+    L.marker([lat, lon]).addTo(map);
+  })();
 </script>
