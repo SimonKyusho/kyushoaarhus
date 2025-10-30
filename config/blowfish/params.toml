@@ -3,7 +3,7 @@ defaultAppearance = "light"  # "light", "dark", or "auto"
 defaultBackgroundImage = "/img/happy.png" # used as default for background images
 mainSections = ["posts"]
 enableSearch = "true"
-logo = "img/logo.png"  # Path relative to your 'static' directory
+logo = "img/kaj_logo_red_web_quality_no_background.png"  # Path relative to your 'assets' directory
 
 
 #[author]
