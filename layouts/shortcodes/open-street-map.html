@@ -15,10 +15,17 @@
     const lon = parseFloat('{{ .Get `lon` }}');
     const zoom = parseInt('{{ .Get `zoom` }}');
 
-    let map = L.map('map-{{ .Get `id` }}').setView([lat, lon], zoom);
-    L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
+    var mapOptions = {
+      center: [lat, lon],
+      zoom: zoom
+    };
+
+    var map = new L.map('map-{{ .Get `id` }}', mapOptions);
+    var layer = new L.TileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
       attribution: '© OpenStreetMap'
-    }).addTo(map);
-    L.marker([lat, lon]).addTo(map);
+    });
+    map.addLayer(layer);
+
+    new L.Marker([lat, lon]).addTo(map);
   })();
 </script>
