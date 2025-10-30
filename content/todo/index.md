@@ -12,7 +12,7 @@ title: "Todo"
   - [x] Remove 'Recent' on homepage
 
 - Images
-  - [ ] Add logo to header - BCL
+  - [x] Add logo to header
   - [x] Featured image for homepage
   - [ ] Featured images for 'posts' page
   - [x] Show thumbnails for posts on 'posts' page
