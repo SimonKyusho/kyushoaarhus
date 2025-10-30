@@ -1,0 +1,19 @@
+{{ $images := (.Get "images") }}
+{{ $interval := .Get "interval" | default 2000 }}
+{{ $aspectRatio := .Get "aspectRatio" | default "none" }}
+
+<div id="carousel-{{ .Ordinal }}" class="relative" data-carousel="slide" data-carousel-interval="{{ $interval }}">
+  <div class="relative overflow-hidden rounded-lg" {{ if ne $aspectRatio "none" }}style="aspect-ratio: {{ replace $aspectRatio "-" "/" }};"{{ end }}>
+    {{ range $index, $image := (resources.Match $images) }}
+    <div class="hidden duration-700 ease-in-out" data-carousel-item>
+      <img src="{{ $image.RelPermalink }}"
+           class="block w-full h-auto"
+           style="object-fit: contain; max-height: 600px;"
+           alt="{{ $image.Title }}">
+    </div>
+    {{ end }}
+  </div>
+  <!-- Navigation buttons -->
+  <button type="button" class="carousel-prev">Previous</button>
+  <button type="button" class="carousel-next">Next</button>
+</div>
