@@ -44,8 +44,8 @@ For tilmelding eller spørgsmål, skriv til: kontakt@kyusho-aarhus.dk
 
 {{< open-street-map
     id="kyusho-aarhus"
-    lat="56.115429"
-    lon="10.196010"
-    zoom="17"
-    mapLink="https://www.openstreetmap.org/?#map=17/56.115429/10.196010&layers=N"
+    lat="56.115383"
+    lon="10.195994"
+    zoom="18"
+    mapLink="https://www.openstreetmap.org/?#map=18/56.115383/10.195994&layers=N"
 >}}
