@@ -17,7 +17,7 @@ title: "Todo"
   - [ ] Featured images for 'posts' page
   - [x] Show thumbnails for posts on 'posts' page
   - [x] Featured images for posts
-  - [ ] Un-crop/crop sides on image carousel (e.g. front page) - BCL
+  - [x] Un-crop/crop sides on image carousel (e.g. front page) - BCL
 
 - Video
   - [x] Embed youtube video
