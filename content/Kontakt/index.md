@@ -42,12 +42,5 @@ og styrke, men sved på panden er en risiko, du løber. :-)
 
 For tilmelding eller spørgsmål, skriv til: kontakt@kyusho-aarhus.dk
 
-{{< open-street-map
-    id="kyusho-aarhus"
-    lat="56.115368"
-    lon="10.196262"
-    zoom="18"
-    mapLink="https://www.openstreetmap.org/?#map=18/56.115368/10.196262&layers=N"
->}}
 
 ![kort.png](img/kort.png)
