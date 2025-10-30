@@ -36,7 +36,7 @@ Hos os kan du blandt andet forvente at lære:
 Vi gør en dyd ud af, at både lavt og højt graduerede træner sammen i et åbent og nysgerrigt læringsmiljø. Vi er
 hinandens bedste læremestre, og vi opfordrer alle til at give feedback, når man står og arbejder med en teknik.
 
-{{< carousel images="gallery/*" interval="2500" >}}
+{{< carousel images="gallery/*" aspectRatio="none" interval="2500" >}}
 
 ### At 'hacke' kroppen
 
