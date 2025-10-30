@@ -9,7 +9,7 @@ title: "Todo"
   - [ ] Set automatic lead on articles
   - [ ] Figure out proper layout for pages
   - [ ] Setup categories and tags
-  - [ ] Remove 'Recent' on homepage - BCL
+  - [x] Remove 'Recent' on homepage
 
 - Images
   - [ ] Add logo to header - BCL
