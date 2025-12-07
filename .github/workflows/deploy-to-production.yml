@@ -19,6 +19,11 @@ jobs:
           latest_release=$(gh release list --limit 1 | awk '{print $1}')
           echo "Latest release: $latest_release"
 
+      - name: Unzip release asset
+        run: |
+          mkdir -p public
+          unzip hugo-site.zip -d public
+
       - name: Deploy to FTP
         uses: SamKirkland/FTP-Deploy-Action@v4.3.0
         with:
