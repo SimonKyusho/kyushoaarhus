@@ -66,8 +66,8 @@ jobs:
         id: create_release
         uses: actions/create-release@v1
         with:
-          tag_name: latest
-          release_name: "Release latest"
+          tag_name: latest_${{ github.sha }}
+          release_name: "Release latest_${{ github.sha }}"
           draft: false
           prerelease: false
         env:

@@ -16,10 +16,8 @@ jobs:
 
       - name: Download latest release asset
         run: |
-          tag_name="latest"
-          latest_release=$(gh release view "$tag_name" --json tagName --jq .tagName)
+          latest_release=$(gh release list --limit 1 | awk '{print $1}')
           echo "Latest release: $latest_release"
-
 
       - name: Deploy to FTP
         uses: SamKirkland/FTP-Deploy-Action@v4.3.0
