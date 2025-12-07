@@ -60,7 +60,7 @@ jobs:
         uses: actions/deploy-pages@v4
 
       - name: Zip files
-        run: zip -r hugo-site.zip ./public
+        run: cd public && zip -r ../hugo-site.zip .
 
       - name: Create GitHub Release
         id: create_release
