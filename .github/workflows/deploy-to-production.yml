@@ -7,11 +7,19 @@ jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
     steps:
-      - name: Download artifact
-        uses: actions/download-artifact@v4
-        with:
-          name: hugo-site
-          path: ./public
+
+      - name: Install GitHub CLI
+        run: sudo apt-get install -y gh
+
+      - name: Authenticate with GitHub CLI
+        run: echo "${{ secrets.GITHUB_TOKEN }}" | gh auth login --with-token
+
+      - name: Download latest release asset
+        run: |
+          tag_name="latest"
+          latest_release=$(gh release view "$tag_name" --json tagName --jq .tagName)
+          echo "Latest release: $latest_release"
+
 
       - name: Deploy to FTP
         uses: SamKirkland/FTP-Deploy-Action@v4.3.0
