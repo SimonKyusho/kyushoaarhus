@@ -26,6 +26,9 @@ jobs:
           mkdir -p public
           unzip hugo-site.zip -d public
 
+      - name: Remove FTP deploy sync state
+        run: rm -f .ftp-deploy-sync-state.json
+
       - name: Deploy to FTP
         uses: SamKirkland/FTP-Deploy-Action@v4.3.0
         with:
@@ -33,4 +36,3 @@ jobs:
           username: ${{ secrets.FTP_USERNAME }}
           password: ${{ secrets.FTP_PASSWORD }}
           local-dir: public/
-          dangerous-clean-slate: true
