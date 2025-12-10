@@ -23,11 +23,6 @@ name = "Om Kyusho"
 pageRef = "/om-kyusho"
 weight = 20
 
-[[menu.main]]
-name = "ToDo"
-pageRef = "todo"
-weight = 60
-
 
 [markup]
 [markup.goldmark]
