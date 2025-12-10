@@ -1,0 +1,62 @@
+description = "My Hugo Site Description"
+defaultAppearance = "light"  # "light", "dark", or "auto"
+defaultBackgroundImage = "/img/happy.png" # used as default for background images
+mainSections = ["posts"]
+enableSearch = "true"
+logo = "img/kaj_logo_red_web_quality_no_background.png"  # Path relative to your 'assets' directory
+
+
+#[author]
+#name = "Yao Ming"
+#email = "your.mother@example.com"
+#links = [
+#    { email = "mailto:your.mother@example.com" },
+#]
+
+
+[homepage]
+    showHero = true
+    heroStyle = "background" # valid options: basic, big, background
+    layout = "custom" # "page", "profile", "hero", "card", "background", "custom" (uses the layouts/partials/home/custom.html file)
+    # homepageImage = "featured-happy.png" # used in: hero and card layout
+    # showRecent = true
+    # showRecentItems = 6
+    # showMoreLink = true
+    # showMoreLinkDest = "/posts"
+    cardView = true
+    cardViewScreenWidth = false
+    layoutBackgroundBlur = true # only used when layout equals background
+
+[header]
+    layout = "fixed-fill" # "basic", "fixed", "fixed-fill", and "fixed-fill-blur"
+
+[footer]
+    showCopyright = true
+    showThemeAttribution = false
+
+[search]
+    showInHeader = true
+
+# Article styling
+[article]
+    showDate = true
+    showDateUpdated = false
+    showViews = false
+    showLikes = false
+    showAuthor = true
+    showHero = true
+    heroStyle = "background"  # "basic", "big", "background"
+    showBreadcrumbs = true
+    showTableOfContents = true
+    showWordCount = true
+    showSummary = true
+    showRelatedContent = true
+    relatedContentLimit = 3
+    # sharingLinks = ["youtube", "facebook"]
+
+[list]
+    showHero = true
+    heroStyle = "background" # valid options: basic, big, background
+    showCards = true
+    groupByYear = false
+    cardView = true
