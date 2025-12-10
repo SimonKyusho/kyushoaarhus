@@ -5,15 +5,15 @@ env:
 
 on:
   workflow_dispatch:
-    inputs:
-      hugo_environment:
-        description: 'Hugo environment to use for build'
-        required: false
-        default: 'blowfish'
-        type: choice
-        options:
-          - blowfish
-          - _default
+#    inputs:
+#      hugo_environment:
+#        description: 'Hugo environment to use for build'
+#        required: false
+#        default: 'blowfish'
+#        type: choice
+#        options:
+#          - blowfish
+#          - _default
 
   push:
     branches:
@@ -47,8 +47,8 @@ jobs:
 
       - name: Build test site
         run: hugo --minify --destination build_test --environment test
-        env:
-          HUGO_ENV: ${{ github.event.inputs.hugo_environment || env.DEFAULT_HUGO_ENV }}
+#        env:
+#          HUGO_ENV: ${{ github.event.inputs.hugo_environment || env.DEFAULT_HUGO_ENV }}
 
       - name: Upload Github Pages artifact
         uses: actions/upload-pages-artifact@v3
