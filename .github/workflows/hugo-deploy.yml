@@ -45,22 +45,28 @@ jobs:
       - name: Setup Pages
         uses: actions/configure-pages@v4
 
-      - name: Build
-        run: hugo --minify
+      - name: Build test site
+        run: hugo --minify --destination build_test --environment test
         env:
           HUGO_ENV: ${{ github.event.inputs.hugo_environment || env.DEFAULT_HUGO_ENV }}
 
       - name: Upload Github Pages artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: ./public
+          path: ./build_test
 
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
 
+# Remove?
+      - name: Build prod site
+        run: hugo --minify --destination build_prod --environment production
+        env:
+          HUGO_ENV: ${{ github.event.inputs.hugo_environment || env.DEFAULT_HUGO_ENV }}
+
       - name: Zip files
-        run: cd public && zip -r ../hugo-site.zip .
+        run: cd build_prod && zip -r ../hugo-site.zip .
 
       - name: Create GitHub Release
         id: create_release
